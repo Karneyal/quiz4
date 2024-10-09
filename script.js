@@ -4,19 +4,19 @@ const questions = [
         question: "When Moses confronted the Pharaoh, what did his staff turn into when he threw it on the ground?(మోషే ఫరోను ఎదుర్కొన్నప్పుడు, అతను దానిని నేలపై పడవేసినప్పుడు అతని కర్ర ఏమైంది?)",
         options: ["A stone  రాయి", "A snake  పాము", "A bird పక్షి", "A pillar of fire అగ్నిపురుగ"],
         answer: "A snake  పాము",
-        clue: "Clue: I’m where you clean your hands with care, Water and soap are always there. నేను మీరు జాగ్రత్తగా చేతులను శుభ్రం చేసుకునే స్థలం, నీరు మరియు సబ్బు ఎల్లప్పుడూ అక్కడ ఉంటాయి"
+        clue: "Clue: I fight the dirt, though I'm not a broom,I banish germs without a single boom.With water and soap, I'm the task you must do,To keep your hands fresh, healthy, and true. నేను చీపురు కానప్పటికీ, నేను ధూళితో పోరాడతాను,నేను ఒక్క బూమ్ లేకుండా క్రిములను బహిష్కరిస్తాను.నీరు మరియు సబ్బుతో, మీరు చేయవలసిన పని నేను,మీ చేతులను తాజాగా, ఆరోగ్యంగా మరియు నిజమైనదిగా ఉంచడానికి"
     },
     {
         question: "Who was the first son Abram had?(అబ్రాహముకు కలిగిన మొదటి కుమారుడు ఎవరు?)",
         options: ["Isaac ఇసాక్", "Ishmael ఇస్మాయిల్", "Jacob యాకోబు", "Esau ఈశావు "],
         answer: "Ishmael ఇస్మాయిల్",
-        clue: "Clue: I’m where you clean your hands with care, Water and soap are always there. నేను మీరు జాగ్రత్తగా చేతులను శుభ్రం చేసుకునే స్థలం, నీరు మరియు సబ్బు ఎల్లప్పుడూ అక్కడ ఉంటాయి"
+        clue: "Clue: I fight the dirt, though I'm not a broom,I banish germs without a single boom.With water and soap, I'm the task you must do,To keep your hands fresh, healthy, and true. నేను చీపురు కానప్పటికీ, నేను ధూళితో పోరాడతాను,నేను ఒక్క బూమ్ లేకుండా క్రిములను బహిష్కరిస్తాను.నీరు మరియు సబ్బుతో, మీరు చేయవలసిన పని నేను,మీ చేతులను తాజాగా, ఆరోగ్యంగా మరియు నిజమైనదిగా ఉంచడానికి"
     },
     {
         question: "Which human author wrote the most words in the Bible?",
         options: ["Paul పౌలు", "David దావీదు", "Moses మోషే", "Solomon  సొలొమోను"],
         answer: "Moses మోషే",
-        clue: "Clue: I’m where you clean your hands with care, Water and soap are always there. నేను మీరు జాగ్రత్తగా చేతులను శుభ్రం చేసుకునే స్థలం, నీరు మరియు సబ్బు ఎల్లప్పుడూ అక్కడ ఉంటాయి"
+        clue: "Clue: I fight the dirt, though I'm not a broom,I banish germs without a single boom.With water and soap, I'm the task you must do,To keep your hands fresh, healthy, and true. నేను చీపురు కానప్పటికీ, నేను ధూళితో పోరాడతాను,నేను ఒక్క బూమ్ లేకుండా క్రిములను బహిష్కరిస్తాను.నీరు మరియు సబ్బుతో, మీరు చేయవలసిన పని నేను,మీ చేతులను తాజాగా, ఆరోగ్యంగా మరియు నిజమైనదిగా ఉంచడానికి"
     },
     
 
